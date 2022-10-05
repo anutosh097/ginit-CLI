@@ -1,6 +1,6 @@
 # ginit-CLI
 
-***A git cli(command line interface) for automating initialising, committing and pushing a local repository and also creating a remote repository from CLI, created using node js, to eliminate repeatativeness***
+***A git cli(command line interface) for automating initialising, committing and pushing a local repository and also creating a remote repository from CLI, created using node js, to eliminate repeatativeness. Will be authenticating the user with github api***
 
 # Screenshots of the progress(Time lapse)
 
