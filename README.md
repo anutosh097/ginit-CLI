@@ -14,5 +14,11 @@
 
 ![2022-10-05_18h59_25](https://user-images.githubusercontent.com/81863474/194081334-791bb159-e008-4572-bdbc-43ad5c8b8c3b.png)
 
+***Prompting the github username/email and password for user authentication in the console and displaying it***
+
+![2022-10-05_21h53_05](https://user-images.githubusercontent.com/81863474/194112027-7671056a-5f9d-4272-992d-e9c1372ccd5b.png)
+
+
+
 
 
