@@ -8,7 +8,7 @@
 
 ![image](https://user-images.githubusercontent.com/81863474/194070231-59c3843e-5c26-41aa-8c2f-411d15b522dc.png)
 
-***Checking whether the current folder is initialised with git or not with the detection of .git folder, and displaying corresponding messages***
+***Checking whether the current folder is initialised with git or not with the detection of .git folder, and displaying corresponding messages. In case it is not initialised with git(by removing .git folder), then corressponding message is displayed***
 
 ![2022-10-05_18h58_59](https://user-images.githubusercontent.com/81863474/194081324-e00c116e-4ea5-48b3-aab9-e6a3853b4473.png)
 
